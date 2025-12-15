@@ -1,0 +1,21 @@
+/* Arabic localization for Info.plist */
+
+/* Camera Usage Description */
+NSCameraUsageDescription = "نحتاج إلى الوصول إلى الكاميرا لتمكينك من التقاط الصور.";
+
+/* Photo Library Usage Description */
+NSPhotoLibraryUsageDescription = "نحتاج إلى الوصول إلى مكتبة الصور لاختيار صورة.";
+
+/* Photo Library Add Usage Description */
+NSPhotoLibraryAddUsageDescription = "نحتاج إلى الوصول إلى مكتبة الصور لحفظ الصور.";
+
+/* Microphone Usage Description */
+NSMicrophoneUsageDescription = "نحتاج إلى الوصول إلى الميكروفون لتسجيل الصوت.";
+
+/* Apple Music Usage Description */
+NSAppleMusicUsageDescription = "نحتاج إلى الوصول إلى مكتبة الصور لرفع الصور على حسابك.";
+
+/* Motion Usage Description */
+NSMotionUsageDescription = "نحتاج إلى الوصول إلى حساسات الحركة لتتبع نشاطك البدني.";
+
+ 
