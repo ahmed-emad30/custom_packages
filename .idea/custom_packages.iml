@@ -9,6 +9,21 @@
       <excludeFolder url="file://$MODULE_DIR$/chatwoot/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/chatwoot/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/chatwoot/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/cached_video_player/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/cached_video_player/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/cached_video_player/build" />
+      <excludeFolder url="file://$MODULE_DIR$/cached_video_player/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/cached_video_player/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/cached_video_player/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_reaction_button/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_reaction_button/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_reaction_button/build" />
+      <excludeFolder url="file://$MODULE_DIR$/record/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/record/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/record/build" />
+      <excludeFolder url="file://$MODULE_DIR$/record/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/record/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/record/example/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
