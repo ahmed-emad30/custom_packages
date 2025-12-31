@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/codebase/Desktop/desk/fluttersdk/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/codebase/work/branded-base/custom_packages/cached_video_player-2.0.4/example"
+export "FLUTTER_ROOT=/Users/ahmedemad/development/flutter"
+export "FLUTTER_APPLICATION_PATH=/Users/ahmedemad/StudioProjects/custom_packages/cached_video_player/example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"

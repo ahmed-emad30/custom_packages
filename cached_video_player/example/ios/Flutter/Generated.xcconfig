@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/Users/codebase/Desktop/desk/fluttersdk/flutter
-FLUTTER_APPLICATION_PATH=/Users/codebase/work/branded-base/custom_packages/cached_video_player-2.0.4/example
+FLUTTER_ROOT=/Users/ahmedemad/development/flutter
+FLUTTER_APPLICATION_PATH=/Users/ahmedemad/StudioProjects/custom_packages/cached_video_player/example
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build
